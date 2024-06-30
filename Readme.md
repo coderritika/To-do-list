@@ -3,7 +3,7 @@
 ## Project Link
 
 Please find the project link below and share it with your friends:
-[To Do List Project]((https://coderritika.github.io/to-do-list/)) <!-- Replace with your project link -->
+![To Do List Project]((https://coderritika.github.io/to-do-list/)) <!-- Replace with your project link -->
 
 
 Thank you for checking out my project! 
