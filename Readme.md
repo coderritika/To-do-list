@@ -9,7 +9,7 @@ Please find the project link below and share it with your friends:
 
 ### Downloadable Video
 
-Download the video demo [here](./Screen%20Recording%202024-06-30%20141651.mp4).
+Download the video demo [here](/public/UnicornX.mp4).
 
 ## Description
 This project is a simple to-do list web application built with React and Next.js. It allows users to add tasks with titles and descriptions, mark tasks as done, and delete tasks.
