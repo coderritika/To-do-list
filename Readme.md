@@ -3,7 +3,7 @@
 ## Project Link
 
 Please find the project link below and share it with your friends:
-[To Do List Project](https://coderritika.github.io/to-do-list/)
+[To Do List Project]((https://to-do-list-lilac-kappa.vercel.app/))
 
 ## Video Demo
 
